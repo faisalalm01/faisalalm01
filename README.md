@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+#### **contack me**
 
-**faisalalm01/faisalalm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://www.instagram.com/faisalalm28)
+[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_2_hbbgwm.svg"/>](https://www.facebook.com/)
+[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/Group_3_lovdgp.svg"/>](https://www.github.com/faisalalm01)
+
+<!-- **faisalalm01/faisalalm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,4 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
