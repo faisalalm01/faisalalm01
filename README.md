@@ -1,6 +1,17 @@
 ### Faisal Ali Muhamad-@faisalalm01
 <!-- Hi there 👋 -->
 
+
+## 📊 My Github Statistics
+
+<a href="https://github.com/faisalalm01">
+<img alt="faisalalm01's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalalm01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+
+<a href="https://github.com/faisalalm01">
+<img alt="faisalalm01's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faisalalm01&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</a>
+
 ## 🚀 Languages and Tools:
 
 <a href="https://github.com/faisalalm01">
