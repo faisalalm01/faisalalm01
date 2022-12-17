@@ -21,9 +21,14 @@
 
 #### **follow me**
 
-[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://www.instagram.com/faisalalm28)
+<p align = "center">
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]()
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/faisalalm28)
+</p>
+
+<!-- [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://www.instagram.com/faisalalm28)
 [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_2_hbbgwm.svg"/>](https://www.facebook.com/)
-[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_3_lovdgp.svg"/>](https://www.github.com/faisalalm01)
+[<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627390442/sosmed/Group_3_lovdgp.svg"/>](https://www.github.com/faisalalm01) -->
 
 <!-- **faisalalm01/faisalalm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
