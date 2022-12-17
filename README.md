@@ -22,8 +22,11 @@
 #### **follow me**
 
 <p align = "center">
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]
+
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />]()
+
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/faisalalm28)
+
 </p>
 
 <!-- [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://www.instagram.com/faisalalm28)
