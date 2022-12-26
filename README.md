@@ -27,7 +27,7 @@
 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/faisalalm28)
 
-  [website](http://127.0.0.1:5500/notFound/index.html)
+  [website](https://website-profile.netlify.app)
 </p>
 
 <!-- [<img align="left" src="https://res.cloudinary.com/dp0f1pzsf/image/upload/v1627389512/sosmed/Group_1_avhmvt.svg"/>](https://www.instagram.com/faisalalm28)
