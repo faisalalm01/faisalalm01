@@ -6,7 +6,7 @@
 - 🔭 I’m currently studying on **Politeknik harapan Bersama**
 - 🌱 I’m currently learning **web programing**
 - 📚 I’m interested in **software engineer, and artificial intelegence**
-- 📫 How to reach me **faisalali2858@gmail.com** or my [LinkedIn]([https://www.linkedin.com/in/bagusprayoga](https://www.linkedin.com/in/faisal-ali-muhamad-0135b8212/))
+- 📫 How to reach me **faisalali2858@gmail.com** or my [LinkedIn](https://www.linkedin.com/in/faisal-ali-muhamad-0135b8212/)
 - ⚡ Fun fact **I very like anime**
 #
 
