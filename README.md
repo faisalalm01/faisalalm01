@@ -13,7 +13,8 @@
 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/faisalalm28)
 
-[website](https://website-profile.netlify.app)
+<!-- [website](https://website-profile.netlify.app) -->
+[website](https://profile-faisalalim.netlify.app/)
 
 ## 📊 My Github Statistics
 
